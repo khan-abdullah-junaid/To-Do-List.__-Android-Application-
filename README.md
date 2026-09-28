@@ -34,6 +34,8 @@ This project was developed using the **MVVM (Model-View-ViewModel)** architectur
 <div align="center">
   <img src="https://via.placeholder.com/250x500.png?text=Light+Mode" width="250" />
   <img src="https://via.placeholder.com/250x500.png?text=Dark+Mode" width="250" />
+  <img width="1080" height="2400" alt="Screenshot_20260928-225456_To-Do List" src="https://github.com/user-attachments/assets/a1ca41d5-73a3-4acc-8f3c-0cf514275283" />
+
 </div>
 
 ## ⚙️ How to Build and Run
