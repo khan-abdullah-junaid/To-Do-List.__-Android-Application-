@@ -33,7 +33,9 @@ This project was developed using the **MVVM (Model-View-ViewModel)** architectur
 *(Note: Add screenshots of your app running in Light and Dark mode here)*
 <div align="center">
 
-  <img width="20%" height="20%" alt="Screenshot_20260928-225456_To-Do List" src="https://github.com/user-attachments/assets/a1ca41d5-73a3-4acc-8f3c-0cf514275283" /> <img width="20%" height="20%" alt="Screenshot_20260927-152533_To-Do List" src="https://github.com/user-attachments/assets/95477a4a-3cd7-4751-aea5-64eca723ab2f" />
+  <img width="20%" height="20%" alt="Screenshot_20260928-225456_To-Do List" src="https://github.com/user-attachments/assets/a1ca41d5-73a3-4acc-8f3c-0cf514275283" /> <img width="20%" height="20%" alt="Screenshot_20260927-152533_To-Do List" src="https://github.com/user-attachments/assets/95477a4a-3cd7-4751-aea5-64eca723ab2f" /> <img width="1080" height="2400" alt="Screenshot_20260928-230629_To-Do List" src="https://github.com/user-attachments/assets/60320361-9dae-4d1b-a95b-7123dc182f84" /> <img width="1080" height="2400" alt="Screenshot_20260928-230632_To-Do List" src="https://github.com/user-attachments/assets/69da83e9-4bcf-4c18-baca-1387f0de65d8" />
+
+
 
 
 </div>
