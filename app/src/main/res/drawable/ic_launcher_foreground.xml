@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clipboard Shadow -->
+    <path
+        android:fillColor="#30000000"
+        android:pathData="M33,31 h44 a6,6 0 0,1 6,6 v50 a6,6 0 0,1 -6,6 h-44 a6,6 0 0,1 -6,-6 v-50 a6,6 0 0,1 6,-6 z" />
+
+    <!-- Main Clipboard Body -->
+    <path
+        android:fillColor="#FAFCFF"
+        android:pathData="M31,29 h44 a6,6 0 0,1 6,6 v50 a6,6 0 0,1 -6,6 h-44 a6,6 0 0,1 -6,-6 v-50 a6,6 0 0,1 6,-6 z" />
+
+    <!-- Clipboard Header Bar / Accent Line -->
+    <path
+        android:fillColor="#3B5199"
+        android:pathData="M31,29 h44 a6,6 0 0,1 6,6 v6 h-56 v-6 a6,6 0 0,1 6,-6 z" />
+
+    <!-- Top Metallic Clip -->
+    <path
+        android:fillColor="#DCE1FF"
+        android:pathData="M43,24 h22 a3,3 0 0,1 3,3 v6 h-28 v-6 a3,3 0 0,1 3,-3 z" />
+
+    <!-- Top Clip Inner Ring -->
+    <path
+        android:fillColor="#3B5199"
+        android:pathData="M49,26 h10 a2,2 0 0,1 2,2 v2 h-14 v-2 a2,2 0 0,1 2,-2 z" />
+
+    <!-- Task Item 1: High Priority Row -->
+    <!-- Priority Dot (Red/High) -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M39,43.5 a3.5,3.5 0 1,0 0.01,0 z" />
+    <!-- Task Line -->
+    <path
+        android:fillColor="#3B5199"
+        android:pathData="M46,42 h23 a1.5,1.5 0 0,1 0,3 h-23 a1.5,1.5 0 0,1 0,-3 z" />
+
+    <!-- Task Item 2: Medium Priority Row -->
+    <!-- Priority Dot (Amber/Medium) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M39,53.5 a3.5,3.5 0 1,0 0.01,0 z" />
+    <!-- Task Line -->
+    <path
+        android:fillColor="#5A6482"
+        android:pathData="M46,52 h19 a1.5,1.5 0 0,1 0,3 h-19 a1.5,1.5 0 0,1 0,-3 z" />
+
+    <!-- Task Item 3: Low Priority Row -->
+    <!-- Priority Dot (Blue/Low) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M39,63.5 a3.5,3.5 0 1,0 0.01,0 z" />
+    <!-- Task Line -->
+    <path
+        android:fillColor="#5A6482"
+        android:pathData="M46,62 h16 a1.5,1.5 0 0,1 0,3 h-16 a1.5,1.5 0 0,1 0,-3 z" />
+
+    <!-- Completed Task Strikethrough Row -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M39,73.5 a3.5,3.5 0 1,0 0.01,0 z" />
+    <path
+        android:fillColor="#B0B8CE"
+        android:pathData="M46,72 h12 a1.5,1.5 0 0,1 0,3 h-12 a1.5,1.5 0 0,1 0,-3 z" />
+
+    <!-- Floating Checkmark Circle Badge (Bottom Right) -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M68,72 a11,11 0 1,0 0.01,0 z" />
+
+    <!-- Badge White Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,72 l3.5,3.5 l7.5,-7.5 l1.8,1.8 l-9.3,9.3 l-5.3,-5.3 z" />
+
+</vector>

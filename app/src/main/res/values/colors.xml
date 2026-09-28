@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_brand">#3B5199</color>
+    <color name="primary_dark">#171D3A</color>
+    <color name="accent_brand">#006A60</color>
+    <color name="priority_high">#D32F2F</color>
+    <color name="priority_medium">#F57C00</color>
+    <color name="priority_low">#0284C7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
